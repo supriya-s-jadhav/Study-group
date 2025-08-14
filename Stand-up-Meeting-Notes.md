@@ -8,4 +8,4 @@ Attendes: 12-15 people<br>
 
 | Day number | Date and Time | Topics Covered | Attendes | Important links/info | 
 |------------|---------------|----------------|----------|----------------------|
-| Day 1 | Aug 14, 2025 | Study-group formation, interested members check-in, discussion around expectations and end goal | https://www.coursera.org/specializations/python-3-programming <br> Oracle SQL Database Associate Certification 1z0 -071 |
+| Day 1 | Aug 14, 2025 | Study-group formation, interested members check-in, discussion around expectations and end goal | 8 people | 1. https://www.coursera.org/specializations/python-3-programming <br> 2. Oracle SQL Database Associate Certification 1z0 -071 |
