@@ -3,6 +3,9 @@ Daily stand-up meeting notes from the Python-SQL-AI study-group are documented i
 
 This study group is formed from Python-AI sub-group which is part of larger WBW group. The topics intended to cover are Python, SQL, Machine Learning/Deep Learning, AI, Leetcode problems, work on Kaggle dataset and build projects. 
 
+# Stand-up meeting
+The study-group meets everyday from 12-1 pm PST to share the learning progress, discuss any issues and help to resolve them. Link to the daily stand-up meeting can be found below: <br>
+[Stand-up meeting](./Stand-up-Meeting-Notes.md)
 
 ## Resources shared in the group: <br>
 
