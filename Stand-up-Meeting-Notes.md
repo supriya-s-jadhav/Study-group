@@ -8,6 +8,7 @@ Attendes: 12-15 people<br>
 
 | Day number | Date and Time | Topics Covered | Attendes | Important links/info | 
 |------------|---------------|----------------|----------|----------------------|
+| Day 3 | Aug 19, 2025 | Topic : Finish Data Structure, Exception handling <br> a) Dictionaries b) Continue on Functions : Lambda functions (Imp), other <br> c) Exception handling: try-except, else, finally, raise | 06 |  |
 | Day 2 | Aug 18, 2025 | Topic : Data Structure 1 <br> a) Continue Conditional-statements, Functions, loops <br> b) Strings (string manipulation, string functions, etc ) <br> c) Lists (indexing, slicing, functions, etc) <br> d) Tuples and sets (operations, immutability, etc) <br> | 14 |  |
 | Day 1 | Aug 15, 2025 | Getting Started with Python <br> a) Installation and Set-up for Mac/Windows: Python and IDE <br> b) Practice Basics: Variables, Data types in Python, Conditional-statements, Functions, loops <br> c) Write a basic python script (eg: Hello World, print date&time using in-built library, other) <br> d) Feel free to select any resource for learning that you like eg: Youtube , Udemy, Coursera, other | 7 people | [Python tutorial official document](https://docs.python.org/3/tutorial/index.html) |
 | Day 0 | Aug 14, 2025 | Study-group formation, interested members check-in, discussion around expectations and end goal | 8 people | 01. [Python course from coursera](https://www.coursera.org/specializations/python-3-programming) <br> 02. Oracle SQL Database Associate Certification 1z0 -071 |
