@@ -12,6 +12,7 @@ Attendes: 12-15 people<br>
 
 | Day number | Date and Time | Topics Covered | Attendes | Important links/info | 
 |------------|---------------|----------------|----------|----------------------|
+| Day 7 | Aug 25,2025 | Topic : Revise Data Structure 1 and Data Structure 2 | 6 |  |
 | Day 6 | Aug 22,2025 | Follow up after WBW Conference |  |  |
 | Day 5 | Aug 21,2025 | WBW Conference Day |  |  |
 | Day 4 | Aug 20, 2025 | Preparing for WBW Conference |  |  |
