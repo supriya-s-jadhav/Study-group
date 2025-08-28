@@ -12,9 +12,10 @@ Attendes: 12-15 people<br>
 
 | Day number | Date and Time | Topics Covered | Attendes | Important links/info | 
 |------------|---------------|----------------|----------|----------------------|
-| Day 9 | Aug 27,2025 | Topic : Data Structure and/or one leetcode easy problem | 7 |  |
+| Day 10 | Aug 28,2025 | Topic : Basics and/or one leetcode easy problem | 6 | One new member |
+| Day 9 | Aug 27,2025 | Topic : Basics and/or one leetcode easy problem | 7 |  |
 | Day 8 | Aug 26,2025 | No Meeting |  |  |
-| Day 7 | Aug 25,2025 | Topic : Revise Data Structure 1 and Data Structure 2 | 6 |  |
+| Day 7 | Aug 25,2025 | Topic : Revise Basics | 6 |  |
 | Day 6 | Aug 22,2025 | Follow up after WBW Conference |  |  |
 | Day 5 | Aug 21,2025 | WBW Conference Day |  |  |
 | Day 4 | Aug 20, 2025 | Preparing for WBW Conference |  |  |
